@@ -1,0 +1,4 @@
+In the era of e-commerce customer opinions play an important role in purchasing decisions which overcomes this problem. This Sentiment Analysis project also aims to analyze and understand customer sentiment and gives companies a deeper understanding of customer feedback. 
+Key components of the project include data collection from various online platforms with the help of Web scrapping and various methods for real time data, NLP for preprocessing of text data to address challenges and implementation of sentiment analysis 
+algorithms. 
+It uses machine learning models to categorize reviews. Additionally, userfriendly interface is designed to predict and visualize sentiment trends and help companies track the impact of product changes, marketing strategies, or external factors on customer perceptions. 
